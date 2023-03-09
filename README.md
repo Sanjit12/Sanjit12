@@ -54,3 +54,5 @@ JSON     11 mins         █░░░░░░░░░░░░░░░░░�
 
 [instagram]: https://www.instagram.com/sanjit.majumdar/
 [linkedin]: https://www.linkedin.com/in/sanjitmajumdar/
+
+<a href="https://app.daily.dev/sanjit4u"><img src="https://api.daily.dev/devcards/2d5f9269c7824d0bb756fcc8eb0c3cb9.png?r=a7w" width="400" alt="Sanjit Majumdar's Dev Card"/></a>
