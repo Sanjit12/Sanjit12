@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### A tech enthusiast with a knack for learning
+### A tech enthusiast with a knack for learning complicated skills
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjit12&label=Profile%20views&color=0e75b6&style=flat&base=2576" alt="Sanjit12" /> </p>
 
